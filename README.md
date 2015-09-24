@@ -1,7 +1,9 @@
-== README
+# Twitter-like
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is to explain how to utilize the Twitter-like app. It is hosted on Heroku. You can access the link here:
+
+
+
 
 Things you may want to cover:
 
